@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="icon-calendar" viewBox="0 0 24 24"><path d="M7 3v3M17 3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6l1-1z"/></symbol>
+  <symbol id="icon-leaf" viewBox="0 0 24 24"><path d="M20 4C11 4 5 9 5 18c7 0 13-6 15-14zM5 18c3-5 7-8 12-10"/></symbol>
+  <symbol id="icon-shield" viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 5-3.4 8.4-8 9-4.6-.6-8-4-8-9V6l8-3zM9 12l2 2 4-5"/></symbol>
+  <symbol id="icon-heart" viewBox="0 0 24 24"><path d="M12 20s-7-4.4-9-9.2C1.7 7.5 3.7 5 6.7 5c1.8 0 3.2 1 4.1 2.2C11.8 6 13.2 5 15 5c3 0 5 2.5 3.7 5.8C16.7 15.6 12 20 12 20z"/></symbol>
+  <symbol id="icon-chat" viewBox="0 0 24 24"><path d="M4 5h16v11H8l-4 4V5zM8 9h8M8 13h5"/></symbol>
+</svg>
+

@@ -1,0 +1,36 @@
+﻿@media (max-width: 1024px) {
+  .hero-grid, .split, .contact-grid { grid-template-columns:1fr; }
+  .hero { min-height:auto; }
+  .grid-4 { grid-template-columns:repeat(2, 1fr); }
+  .course-card { grid-template-columns:1fr; }
+  .course-card img { min-height:260px; }
+  .section-head { align-items:flex-start; flex-direction:column; }
+}
+@media (max-width: 860px) {
+  .container { width:min(100% - 28px, var(--container)); }
+  .nav-links { position:fixed; inset:var(--header) 0 auto 0; background:rgba(247,242,234,.98); border-bottom:1px solid var(--color-line); padding:20px; display:grid; gap:16px; transform:translateY(-130%); transition:transform .3s ease; box-shadow:var(--shadow-card); }
+  body.menu-open .nav-links { transform:translateY(0); }
+  .menu-toggle { display:block; }
+  body.menu-open .menu-toggle span:nth-child(1) { transform:translateY(6px) rotate(45deg); }
+  body.menu-open .menu-toggle span:nth-child(2) { opacity:0; }
+  body.menu-open .menu-toggle span:nth-child(3) { transform:translateY(-6px) rotate(-45deg); }
+  .nav-actions .btn { display:none; }
+  .hero-strip, .grid-3, .grid-4, .footer-grid, .form-grid, .meta-grid { grid-template-columns:1fr; }
+  .hero-strip div { min-height:68px; }
+  .feature-band { align-items:flex-start; flex-direction:column; }
+}
+@media (max-width: 560px) {
+  :root { --header: 68px; }
+  .brand span { font-size:12px; letter-spacing:.12em; }
+  .brand-mark { width:42px; height:42px; }
+  .hero { padding:48px 0 34px; }
+  h1 { font-size:42px; }
+  h2 { font-size:31px; }
+  .section { padding:68px 0; }
+  .card, .contact-card, .course-body { padding:22px; }
+  .hero-actions, .footer-bottom { flex-direction:column; align-items:stretch; }
+  .btn { width:100%; }
+  .about-panel { min-height:360px; }
+  .about-panel img { width:100%; }
+}
+
