@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Fondo abstracto Terapias G">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f8f3ea"/><stop offset="1" stop-color="#ece5d8"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#1f210e" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <path d="M1040 105c170 12 306 120 368 262 63 143 51 328-66 418-116 91-337 88-490 15-154-73-239-215-210-350 30-136 228-358 398-345z" fill="#d8d4c2" opacity=".56"/>
+  <path d="M1180 225c95 17 161 93 147 170-14 78-103 156-198 151-95-4-195-91-195-176s151-162 246-145z" fill="#707829" opacity=".24"/>
+  <path d="M110 698c170-120 337-129 473-46 136 82 249 256 401 253 152-4 343-184 468-156 125 29 184 267 88 399-97 133-349 160-613 133-264-28-540-112-685-240-145-128-302-223-132-343z" fill="#242411" opacity=".08"/>
+  <g filter="url(#shadow)"><rect x="1020" y="190" width="430" height="520" rx="40" fill="#ffffff" opacity=".34"/></g>
+</svg>
+
+

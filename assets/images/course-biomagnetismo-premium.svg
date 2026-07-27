@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 640" role="img" aria-label="Curso profesional de Biomagnetismo Manual">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#eff7e8"/>
+      <stop offset=".55" stop-color="#fbfaf2"/>
+      <stop offset="1" stop-color="#dfead3"/>
+    </linearGradient>
+    <linearGradient id="deep" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#143f29"/>
+      <stop offset="1" stop-color="#5f8a58"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#173f2a" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <rect width="920" height="640" fill="url(#bg)"/>
+  <path d="M706 64c104 22 173 102 156 195-17 94-112 168-220 146-108-23-181-128-148-217 33-88 108-146 212-124z" fill="#739669" opacity=".2"/>
+  <path d="M86 492c128-72 235-60 318 37 51 60 143 58 238-12" fill="none" stroke="#bed0ad" stroke-width="46" stroke-linecap="round" opacity=".46"/>
+
+  <rect x="90" y="92" width="740" height="456" rx="38" fill="#fffdf8" filter="url(#shadow)"/>
+  <rect x="90" y="92" width="740" height="132" rx="38" fill="url(#deep)"/>
+  <path d="M90 185h740v39H90z" fill="#143f29"/>
+
+  <g font-family="Aptos, Segoe UI, Arial, sans-serif">
+    <text x="132" y="151" fill="#f8fbf3" font-size="20" font-weight="700" letter-spacing="3">ACADEMIA TERAPIAS G</text>
+    <text x="132" y="194" fill="#fffdf8" font-size="42" font-weight="700">Biomagnetismo Manual</text>
+  </g>
+
+  <g transform="translate(132 286)" fill="none" stroke="#5f8a58" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="92" cy="92" r="78"/>
+    <path d="M36 145c39-52 112-52 151 0"/>
+    <path d="M92 14V-34M52 36 18 2M132 36l34-34"/>
+    <path d="M324 0c82 40 120 126 86 207M324 0c-82 40-120 126-86 207"/>
+    <path d="M281 104h86M324 62v86"/>
+  </g>
+
+  <g transform="translate(530 292)">
+    <rect width="222" height="156" rx="28" fill="#eef6e8" stroke="#cfddc5"/>
+    <circle cx="50" cy="52" r="26" fill="#fffdf8" stroke="#b9cda9" stroke-width="3"/>
+    <path d="M42 52h16M50 44v16" stroke="#5f8a58" stroke-width="4" stroke-linecap="round"/>
+    <g font-family="Aptos, Segoe UI, Arial, sans-serif" fill="#173f2a">
+      <text x="92" y="50" font-size="18" font-weight="700">Formacion</text>
+      <text x="92" y="76" font-size="18" font-weight="700">practica</text>
+      <text x="32" y="122" font-size="15" fill="#66766a">Sesiones, guias y</text>
+      <text x="32" y="144" font-size="15" fill="#66766a">acompanamiento.</text>
+    </g>
+  </g>
+
+  <g transform="translate(132 478)" font-family="Aptos, Segoe UI, Arial, sans-serif">
+    <rect width="132" height="42" rx="21" fill="#edf4e6"/>
+    <text x="66" y="27" text-anchor="middle" fill="#547b52" font-size="15" font-weight="700">Meet</text>
+    <rect x="148" width="132" height="42" rx="21" fill="#edf4e6"/>
+    <text x="214" y="27" text-anchor="middle" fill="#547b52" font-size="15" font-weight="700">Drive</text>
+    <rect x="296" width="156" height="42" rx="21" fill="#edf4e6"/>
+    <text x="374" y="27" text-anchor="middle" fill="#547b52" font-size="15" font-weight="700">Classroom</text>
+  </g>
+</svg>
