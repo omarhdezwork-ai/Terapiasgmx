@@ -1,9 +1,0 @@
-﻿@media (prefers-reduced-motion: no-preference) {
-  .reveal { opacity:0; transform:translateY(22px); transition:opacity .7s ease, transform .7s ease; }
-  .reveal.is-visible { opacity:1; transform:translateY(0); }
-  .hero-card { animation: floatIn .85s ease both; }
-  .hero-copy { animation: fadeIn .75s ease both; }
-  @keyframes fadeIn { from { opacity:0; transform:translateY(18px); } to { opacity:1; transform:translateY(0); } }
-  @keyframes floatIn { from { opacity:0; transform:translateY(28px) scale(.98); } to { opacity:1; transform:translateY(0) scale(1); } }
-}
-
